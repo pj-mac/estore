@@ -1,0 +1,21 @@
+/bin/
+/build/
+/dist/
+/out/
+/target/
+/node_modules/
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# IntelliJ
+*.iml
+*.iws
+*.ipr
+.idea/
+
+# Mac OS System
+.DS_Store*
+._*
